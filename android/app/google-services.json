@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "770577061424",
+      "project_id": "flow-a-i-6eogux",
+      "storage_bucket": "flow-a-i-6eogux.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:770577061424:android:5aeb616d5d9b93c15b3ff5",
+          "android_client_info": {
+            "package_name": "com.company.flowai"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "770577061424-e9mlst3dilecfrb632i5ih01mh331u3q.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDPBc1xjiSxBOvqB3gACBN51FvH5DvBdaE"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "770577061424-e9mlst3dilecfrb632i5ih01mh331u3q.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
